@@ -15,12 +15,22 @@ This project is a web-based notification and dashboard application built using R
 
 ---
 
-## 🎯 Features
+## 🎯 Features  
 
-- Modular and reusable components for notifications and calendars.
-- Role-based routing for admin and user dashboards.
-- Integrated context for state management.
-- Mobile and desktop responsiveness.
+### 🖥️ Dashboard  
+- Modular and reusable components.  
+- Role-based routing for admin and user dashboards.  
+
+### 📆 Calendar  
+- Customizable calendar view using `react-big-calendar`.  
+- Event management functionality.
+
+### 📱 Responsive Design  
+- Fully responsive interface for both mobile and desktop.  
+
+### 🌐 State Management  
+- Context API integration for efficient state handling.  
+
 
 ---
 
@@ -77,14 +87,18 @@ src/
 
 ---
 
-## 📝 Future Enhancements
+## 📝 Future Enhancements  
+- **Unit Tests:** Add unit tests for all components to ensure code reliability.  
+- **Secure Login System:** Implement a secure authentication system for Admin and User roles.  
+- **Database Integration:** Connect the app with MongoDB for persistent storage.  
+- **UI Enhancements:** Add animations and transitions for better user experience.  
+- **Real-Time Notifications:** Integrate with a backend system for live notifications.
 
-- Add unit tests for all components.
-- Addition of secure login system for User and Admin
-- Integrating the current application with Database (e.g. MongoDB)
-- Enhance the UI with animations and transitions.
-- Integrate with a backend for real-time notifications.
   
+---
+
+## 📸 Screenshots  
+
 ---
 
 ## 👨‍💻 Author
@@ -93,7 +107,7 @@ Kranthi Kumar Yatakala - @kranthi90597
 
 ---
 
-## I welcome for your Valuable doubts
+## Feel free to reach out with your valuable questions or feedback
 
 Email - kranthi90597@gmail.com
 
