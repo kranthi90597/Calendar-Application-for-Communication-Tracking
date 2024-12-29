@@ -4,12 +4,7 @@
 Add any relevant badges (optional).
 
 ## 🚀 Project Overview
-A brief description of your project:
-- What it does.
-- Why you built it.
-- Highlight any unique or standout features.
 
-For example:
 > This project is a web-based notification and dashboard application built using React. It provides an intuitive interface for managing user notifications, displaying a calendar view, and handling admin modules. The goal of this project was to create a scalable, responsive, and efficient platform.
 
 ---
