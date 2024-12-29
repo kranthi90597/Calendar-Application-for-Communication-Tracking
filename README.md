@@ -100,6 +100,15 @@ src/
 ## 📸 Screenshots  
 
 ---
+## 📜 License
+
+This project is proprietary and is protected under copyright laws.  
+The code and associated materials are made available for viewing purposes only.  
+No copying, modifying, distributing, or using the code for commercial purposes is allowed without prior written permission from the author.  
+
+See the [LICENSE](./LICENSE) file for more details.
+
+---
 
 ## 👨‍💻 Author
 
