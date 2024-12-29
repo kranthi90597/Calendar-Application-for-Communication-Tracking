@@ -5,7 +5,7 @@ Add any relevant badges (optional).
 
 ## 🚀 Project Overview
 
-> This project is a web-based notification and dashboard application built using React. It provides an intuitive interface for managing user notifications, displaying a calendar view, and handling admin modules. The goal of this project was to create a scalable, responsive, and efficient platform.
+This project is a web-based notification and dashboard application built using React. It provides an intuitive interface for managing user notifications, displaying a calendar view, and handling admin modules. The goal of this project was to create a scalable, responsive, and efficient platform.
 
 ---
 
