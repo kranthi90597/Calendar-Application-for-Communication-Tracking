@@ -57,7 +57,7 @@ This project is a web-based notification and dashboard application built using R
 ---
 
 ## 📂 Folder Structure
-
+```
 src/
 │
 ├── components/
@@ -73,6 +73,7 @@ src/
 ├── App.js
 ├── index.js
 └── ...
+```
 
 ---
 
