@@ -99,6 +99,27 @@ src/
 
 ## 📸 Screenshots  
 
+1. **Dashboard** - User Interaction
+   
+   ![Dashboard](https://github.com/user-attachments/assets/c521799f-030c-4a14-8137-f353ee319593)
+
+3. **Adminstrator dashboard** - Can Add, Edit, Delete companies
+   
+   ![Admin_Dashboard](https://github.com/user-attachments/assets/4e0fe58c-a614-4b65-9d37-dd862cae7676)
+
+4. **Calendar** - Engagement Planner
+   
+   ![Big_Calendar](https://github.com/user-attachments/assets/ee5eceec-6f76-47d9-a340-8cc0acdeb762)
+
+5. **Companies** - You can see the registered companies
+   
+   ![Companies](https://github.com/user-attachments/assets/f8096679-22af-4b76-af95-a6c520936ff1)
+
+6. **Notification** - Reminds you the communications
+   
+   ![Notifications](https://github.com/user-attachments/assets/bd0f1318-397f-4c28-8fcd-e4f0deeeafdb)
+
+
 ---
 ## 📜 License
 
