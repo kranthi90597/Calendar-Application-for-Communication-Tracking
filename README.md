@@ -1,7 +1,6 @@
 # Calendar-Application-for-Communication-Tracking
 
 [![React](https://img.shields.io/badge/React-18.2.0-blue)](https://reactjs.org/)  
-Add any relevant badges (optional).
 
 ## 🚀 Project Overview
 
@@ -10,7 +9,7 @@ This project is a web-based notification and dashboard application built using R
 ---
 
 ## 🎯 Features
-List the main features of your project:
+
 - Modular and reusable components for notifications and calendars.
 - Role-based routing for admin and user dashboards.
 - Integrated context for state management.
@@ -19,7 +18,7 @@ List the main features of your project:
 ---
 
 ## 🛠️ Technologies Used
-Mention the key technologies and tools you used:
+
 - **Frontend:** React, CSS Modules
 - **State Management:** Context API
 - **Testing:** Jest (optional)
@@ -28,7 +27,6 @@ Mention the key technologies and tools you used:
 ---
 
 ## ⚙️ Setup and Installation
-Explain how someone can clone and run your project locally:
 
 1. Clone the repository:
    ```bash
